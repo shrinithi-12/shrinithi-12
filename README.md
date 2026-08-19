@@ -1,115 +1,149 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                    SHRINITHI - GITHUB README                  -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=SHRINITHI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Code%20%7C%20Create%20%7C%20Grow&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C6FF&height=230&section=header&text=SHRINITHI%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Information%20Technology%20Student%20%7C%20Developer%20%7C%20Learner&descAlignY=58&descSize=17" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Shrinithi+%F0%9F%91%8B;B.Tech+Information+Technology+Student+%F0%9F%8E%93;Frontend+Developer+%7C+Problem+Solver+%F0%9F%92%BB;Building+Projects+That+Solve+Real+Problems+%F0%9F%9A%80;Always+Learning.+Always+Growing.+%E2%9C%A8" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Shrinithi+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%92%BB;Learning+%7C+Building+%7C+Improving+%F0%9F%9A%80;Turning+Ideas+Into+Projects+%E2%9C%A8" />
-
-<br><br>
-
 <a href="https://github.com/shrinithi-12">
-<img src="https://img.shields.io/badge/GitHub-shrinithi--12-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-shrinithi--12-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/shrinithi-s-21970a355/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=shrinithi-12&label=PROFILE+VIEWS&color=00C6FF&style=for-the-badge"/>
+
 </div>
 
 ---
 
-## ✦ A Little About Me
+# 👩🏻‍💻 Who Am I?
 
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  🎓  Computer Science Student                        │
-│  💻  Exploring Software Development                 │
-│  🧠  Learning through building real projects        │
-│  🚀  Improving my coding & problem-solving skills   │
-│  🎨  Creative outside of code                       │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
+<img align="right" width="280" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"/>
 
-> *"Every expert was once a beginner who never stopped learning."*
+🎓 **B.Tech Information Technology Student**
+
+🏫 Bannari Amman Institute of Technology
+
+📊 **CGPA: 8.03**
+
+💻 Interested in **Software & Application Development**
+
+🌐 Exploring **Web Technologies**
+
+🧠 Improving **Problem Solving & Programming**
+
+🚀 Building practical projects through hands-on learning
+
+✨ Always curious about new technologies
+
+<br clear="right"/>
 
 ---
 
-## ⚡ My Tech Universe
+# ⚡ My Tech Stack
 
-<div align="center">
+### 💻 Programming
 
-### ☕ Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,python" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
+### 🌐 Web Technologies
 
-<br><br>
-
-### 🌐 Web
-
-<img src="https://skillicons.dev/icons?i=html,css" />
-
-<br><br>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
 
 ### 🗄️ Database
 
+<p>
 <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-</div>
+### 🛠️ Tools
 
-<br>
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,github,figma,idea" />
+</p>
+
+### 📌 Current Skill Level
 
 | Technology   |      Level     |
 | :----------- | :------------: |
 | ☕ Java       |     `Basic`    |
 | 🐍 Python    |     `Basic`    |
 | ⚡ JavaScript |     `Basic`    |
+| 🗄️ SQL      | `Intermediate` |
 | 🌐 HTML      | `Intermediate` |
 | 🎨 CSS       | `Intermediate` |
-| 🗄️ SQL      | `Intermediate` |
+| 🔵 C         |     `Basic`    |
 
 ---
 
-## 🧩 Currently Exploring
+# 🚀 Featured Projects
+
+### 🏥 Mobile Application for ASHA & PHC Workers
+
+**Role:** Frontend Developer
+
+> An offline-first mobile application designed to help ASHA and PHC workers digitize patient records in low-connectivity areas.
+
+**What I worked on:**
+
+* 📱 Designed a user-friendly mobile interface
+* 🗂️ Simplified patient data management
+* ⚡ Focused on efficient healthcare workflows
+* 🌐 Designed for low-connectivity environments
+
+---
+
+### 🏭 Automation Production Display System
+
+**Role:** Frontend Developer
+
+> A real-time dashboard designed to monitor and present production data clearly.
+
+**What I worked on:**
+
+* 📊 Developed a real-time production dashboard
+* 📈 Designed interactive production visualizations
+* 🖥️ Focused on clear and responsive data presentation
+* ⚡ Improved operational visibility
+
+---
+
+# 🏆 Achievements
 
 <div align="center">
 
-`💻 Programming`   `🌐 Web Development`   `🗄️ SQL`
-
-`🧠 Problem Solving`   `🚀 Software Development`
+| 🏅 Achievement                                | Year |
+| :-------------------------------------------- | :--: |
+| 🥇 **TN Skills – State-Level Finalist**       | 2025 |
+| 💻 Software Application Development Domain    | 2025 |
+| 🥋 **District-Level Judo – Gold Medalist**    | 2023 |
+| 🏆 Qualified for State-Level Judo Competition | 2023 |
 
 </div>
 
 ---
 
-## 🏆 Achievements
+# 📜 Certifications
 
-<div align="center">
+🎖️ **JavaScript Essentials**
 
-🥋 **District Gold Medalist – Judo**
+🤖 **AI Fundamentals with IBM Cloud**
 
-   
-
-🏅 **TN Skills 2025 – State-Level Finalist**
-
-   
-
-💻 **Software Application Development**
-
-</div>
+🌐 **Microsoft Certification – HTML/CSS**
 
 ---
 
@@ -117,7 +151,7 @@
 
 <div align="center">
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
 
 <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" width="500"/>
 
@@ -125,72 +159,95 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Problems%20Solved-UPDATE%20COUNT-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/PROBLEMS%20SOLVED-ADD%20COUNT-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 
 </div>
 
-> 🧩 **Consistency over perfection.**
-> Every problem I solve is another step toward becoming a better developer.
+> 🧩 **Learning algorithms one problem at a time.**
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shrinithi-12&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shrinithi-12&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrinithi-12&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrinithi-12&hide_border=true&theme=transparent" width="48%"/>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrinithi-12&layout=compact&hide_border=true&langs_count=8" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrinithi-12&layout=compact&hide_border=true&langs_count=8&theme=transparent" width="40%"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Journey
+# 🐍 My Contribution Journey
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="90%"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="95%"/>
 
 </div>
 
 ---
 
-# 📈 My GitHub Contributions
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrinithi-12&theme=react-dark&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrinithi-12&bg_color=ffffff00&color=00C6FF&line=00C6FF&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-# 🌐 Find Me Online
+# 🌱 Currently Learning
+
+```text
+╭────────────────────────────────────────────────────────╮
+│                                                        │
+│   💻  Programming & Problem Solving                    │
+│                                                        │
+│   🌐  Web Development                                  │
+│                                                        │
+│   📱  Application Development                          │
+│                                                        │
+│   🗄️  SQL & Database Concepts                          │
+│                                                        │
+│   🚀  Building Real-World Projects                     │
+│                                                        │
+╰────────────────────────────────────────────────────────╯
+```
+
+---
+
+# 🎯 My Goal
+
+<div align="center">
+
+### Turning curiosity into skills.
+
+### Turning skills into projects.
+
+### Turning projects into impact. 🚀
+
+</div>
+
+---
+
+# 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/shrinithi-12">
-<img src="https://img.shields.io/badge/GitHub-shrinithi--12-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Shrinithi--12-181717?style=for-the-badge&logo=github"/>
 </a>
 
- 
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Shrinithi-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/shrinithi-s-21970a355/">
+<img src="https://img.shields.io/badge/LinkedIn-Shrinithi%20S-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-
- 
 
 <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
 <img src="https://img.shields.io/badge/LeetCode-Shrinithi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -202,18 +259,12 @@
 
 <div align="center">
 
-### 💫 A small step every day.
-
-**Learn → Build → Fail → Fix → Grow**
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile+%E2%9C%A8;Keep+coding+%F0%9F%92%BB;Keep+creating+%F0%9F%8C%B1;Keep+growing+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Let's+build+something+amazing!+%F0%9F%9A%80;Keep+Learning.+Keep+Building.+Keep+Growing." />
 
 <br><br>
 
-⭐ **If you like my work, consider starring my repositories!**
+⭐ **Explore my repositories and let's connect!**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C6FF&height=130&section=footer" width="100%"/>
