@@ -6,27 +6,25 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Turning+curiosity+into+skills...;Skills+into+projects...;Projects+into+impact...;Always+Learning+%7C+Always+Building" />
 
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/shrinithi-s-21970a355/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/shrinithi-12">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/s_shrinithi/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=shrinithi-12&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=shrinithi-12&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 
 </div>
-
-<br>
 
 ---
 
@@ -43,11 +41,15 @@ Education : B.Tech Information Technology
 Institute : Bannari Amman Institute of Technology
 CGPA      : 8.03
 Location  : Coimbatore, Tamilnadu
+```
 
 Inquisitive Information Technology student with a strong foundation in programming, web technologies, and application development.
 
 <br>
-🛠️ > fetch_skills.sh
+
+## 🛠️ `> fetch_skills.sh`
+
+```text
 [ Core ] Java Python C
 
 [ Web ] HTML5 CSS JavaScript
@@ -55,55 +57,116 @@ Inquisitive Information Technology student with a strong foundation in programmi
 [ Data ] SQL MySQL
 
 [ Tools ] VS Code Figma IntelliJ Git
-</td> <td width="50%" valign="top">
-🚀 > execute_projects.bat
-🏥 Mobile App for ASHA Workers
+```
 
-Frontend Developer | 2025
+</td>
+
+<td width="50%" valign="top">
+
+## 🚀 `> execute_projects.bat`
+
+### 🏥 Mobile App for ASHA Workers
+
+**Frontend Developer | 2025**
 
 An offline-first mobile application designed to help ASHA and PHC workers digitize patient records in low-connectivity areas. Focuses on simplifying data management and improving healthcare workflow efficiency.
 
 <br>
-🏭 Automation Production Display
 
-Frontend Developer | 2025
+### 🏭 Automation Production Display
+
+**Frontend Developer | 2025**
 
 A real-time dashboard built to monitor and present production data clearly. Features interactive production visualizations to improve operational visibility and efficiency.
 
-</td> </tr> </table>
-🏆 > sudo get_achievements
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🏆 `> sudo get_achievements`
+
 <div align="center">
+
+```text
 ╔════════════════════════════════════════════════════╗
 ║                  ACHIEVEMENTS                      ║
 ╠════════════════════════════════════════════════════╣
 ║                                                    ║
 ║ 🥇 STATE-LEVEL FINALIST                            ║
-║    TN Skills (Software App Dev)                   ║
-║    ZOHO Corporation | 2025                         ║
+║    TN Skills (Software App Dev), ZOHO Corp (2025) ║
 ║                                                    ║
 ║ 🥋 GOLD MEDALIST & STATE QUALIFIER                 ║
-║    District-Level Judo Championship | 2023        ║
+║    District-Level Judo Championship (2023)        ║
 ║                                                    ║
 ╚════════════════════════════════════════════════════╝
+```
+
 </div>
-📜 > cat certificates.txt
+
+---
+
+## 📜 `> cat certificates.txt`
+
 <div align="center">
+
+```text
 [✔] JavaScript Essentials
 [✔] AI Fundamentals with IBM Cloud
 [✔] Microsoft Certification – HTML/CSS
+```
+
 </div>
-📈 > monitor_github_telemetry.log
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shrinithi-12&show_icons=true&theme=tokyonight&hide_border=true" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrinithi-12&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+
+---
+
+## 📈 `> monitor_github_telemetry.log`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shrinithi-12&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrinithi-12&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=shrinithi-12&theme=tokyonight&hide_border=true" /> </div>
-📊 > contribution_graph.exe
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrinithi-12&theme=tokyo-night&hide_border=true&area=true" width="95%" /> </div>
-🧩 > problem_solving.exe
-<div align="center"> <a href="https://leetcode.com/u/s_shrinithi/"> <img src="https://leetcard.jacoblin.cool/s_shrinithi?theme=dark&font=baloo&ext=heatmap" width="500" /> </a> </div>
-🌱 > currently_learning
+<img src="https://streak-stats.demolab.com?user=shrinithi-12&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📊 `> contribution_graph.exe`
+
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrinithi-12&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+## 🧩 `> problem_solving.exe`
+
+<div align="center">
+
+<a href="https://leetcode.com/u/s_shrinithi/">
+
+<img src="https://leetcard.jacoblin.cool/s_shrinithi?theme=dark&font=baloo&ext=heatmap" width="500"/>
+
+</a>
+
+</div>
+
+---
+
+## 🌱 `> currently_learning`
+
+<div align="center">
+
+```text
 ┌─────────────────────────────────────────┐
 │                                         │
 │  → Advanced Java                        │
@@ -114,9 +177,17 @@ A real-time dashboard built to monitor and present production data clearly. Feat
 │  → Problem Solving                      │
 │                                         │
 └─────────────────────────────────────────┘
+```
+
 </div>
-🎯 > 2026_goals.exe
+
+---
+
+## 🎯 `> 2026_goals.exe`
+
 <div align="center">
+
+```text
 [ ] Solve more DSA problems
 [ ] Build more real-world applications
 [ ] Improve frontend development
@@ -125,13 +196,25 @@ A real-time dashboard built to monitor and present production data clearly. Feat
 [ ] Participate in hackathons
 [ ] Build a strong developer portfolio
 [ ] Keep learning. Keep building.
+```
+
 </div>
-📡 > connect_with_me
-<div align="center"> <a href="https://www.linkedin.com/in/shrinithi-s-21970a355/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
- 
+---
 
-<a href="https://github.com/shrinithi-12"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+## 📡 `> connect_with_me`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shrinithi-s-21970a355/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/shrinithi-12">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br><br>
 
@@ -139,4 +222,6 @@ A real-time dashboard built to monitor and present production data clearly. Feat
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </div> ```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
