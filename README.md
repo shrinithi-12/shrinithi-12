@@ -2,9 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7F00FF,100:FF00C8&height=220&section=header&text=SHRINITHI%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=18"/>
 
-# 👩🏻‍💻 Shrinithi S
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=SHRINITHI%20S&fontSize=65&fontColor=00F7FF&color=0:0D1117,50:161B22,100:7F00FF&stroke=00F7FF&strokeWidth=2&animation=twinkling&fontAlignY=50"/>
+
+<br>
 
 ### `Frontend Developer` • `Problem Solver` • `Tech Enthusiast`
+
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Turning+ideas+into+interfaces+%F0%9F%92%BB;Building+projects+that+solve+real+problems+%F0%9F%9A%80;Learning+today%2C+building+tomorrow+%F0%9F%8C%B1;Code+%7C+Create+%7C+Learn+%7C+Repeat+%E2%9A%A1"/>
 
